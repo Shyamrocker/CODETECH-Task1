@@ -1,4 +1,4 @@
---crete a databse
+ --crete a databse
 CREATE DATABASE LIBRARY_MANAGMENT_SYSTEM;
 --use database
 USE LIBRARY_MANAGMENT_SYSTEM;
