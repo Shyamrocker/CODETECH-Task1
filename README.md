@@ -1,8 +1,8 @@
-Name      : M Sivananthan 
+Name      : SHYAM S
 <BR>
 Company: CODTECH IT SOLUTIONS
 <BR>
-Intern ID : CT08DS6401
+Intern ID : CT08DS6496
 <BR>
 Domain  : SQL
 <BR>
@@ -121,4 +121,4 @@ Here are some key SQL commands used in the project:
 
 For any inquiries or contributions, feel free to reach out:
 
-[GitHub Profile](https://github.com/MSivananthan)
+[GitHub Profile](https://github.com/Shyamrocker)
